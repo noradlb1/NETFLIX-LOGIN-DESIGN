@@ -4,4 +4,4 @@ NETFLIX-LOGIN-DESIGN
 
 ![](NETFLIX.gif)
 
-### Contact me: [@kernel_devs]([https://kernel_devs.t.me/](https://youtu.be/ZPGvudzB0Lk)) <br>
+### Contact me: [@kernel_devs](https://youtu.be/ZPGvudzB0Lk) <br>
